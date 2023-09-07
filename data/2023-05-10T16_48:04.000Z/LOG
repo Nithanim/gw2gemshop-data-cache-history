@@ -1,0 +1,14 @@
+2023/05/10-18:17:40.251 29c Reusing MANIFEST C:\users\nithanim\Temp\gw2cache-{0100007E-CDED-2A02-7D00-0001EDCD022A}\user\Cache\Local Storage\leveldb/MANIFEST-000001
+2023/05/10-18:17:40.252 29c Recovering log #22
+2023/05/10-18:17:40.253 29c Level-0 table #24: started
+2023/05/10-18:17:40.256 29c Level-0 table #24: 38522 bytes OK
+2023/05/10-18:17:40.258 29c Delete type=0 #22
+2023/05/10-18:17:40.259 290 Compacting 4@0 + 1@1 files
+2023/05/10-18:17:40.266 290 Generated table #26@0: 13 keys, 39185 bytes
+2023/05/10-18:17:40.266 290 Compacted 4@0 + 1@1 files => 39185 bytes
+2023/05/10-18:17:40.267 290 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/10-18:17:40.268 290 Delete type=2 #14
+2023/05/10-18:17:40.268 290 Delete type=2 #16
+2023/05/10-18:17:40.268 290 Delete type=2 #19
+2023/05/10-18:17:40.268 290 Delete type=2 #21
+2023/05/10-18:17:40.268 290 Delete type=2 #24
