@@ -1,0 +1,5 @@
+2023/11/04-02:20:45.940 290 Reusing MANIFEST C:\users\nithanim\Temp\gw2cache-{0100007E-9B14-2AEB-7D00-0001149BEB2A}\user\Cache\Local Storage\leveldb/MANIFEST-000001
+2023/11/04-02:20:45.943 290 Recovering log #8
+2023/11/04-02:20:45.945 290 Level-0 table #10: started
+2023/11/04-02:20:45.948 290 Level-0 table #10: 45130 bytes OK
+2023/11/04-02:20:45.950 290 Delete type=0 #8
