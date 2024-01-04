@@ -1,0 +1,21 @@
+2023/12/21-20:44:46.224 2cc Reusing MANIFEST C:\users\nithanim\Temp\gw2cache-{0100007E-C693-2B2B-7D00-000193C62B2B}\user\Cache\Local Storage\leveldb/MANIFEST-000001
+2023/12/21-20:44:46.226 2cc Recovering log #17
+2023/12/21-20:44:46.228 2cc Reusing old log C:\users\nithanim\Temp\gw2cache-{0100007E-C693-2B2B-7D00-000193C62B2B}\user\Cache\Local Storage\leveldb/000017.log 
+2023/12/21-20:48:16.460 1c4 Level-0 table #20: started
+2023/12/21-20:48:16.467 1c4 Level-0 table #20: 101626 bytes OK
+2023/12/21-20:48:16.470 1c4 Delete type=0 #17
+2023/12/21-20:50:53.524 878 Level-0 table #22: started
+2023/12/21-20:50:53.529 878 Level-0 table #22: 100610 bytes OK
+2023/12/21-20:50:53.531 878 Delete type=0 #19
+2023/12/21-20:51:33.472 898 Level-0 table #24: started
+2023/12/21-20:51:33.479 898 Level-0 table #24: 100609 bytes OK
+2023/12/21-20:51:33.481 898 Delete type=0 #21
+2023/12/21-20:51:33.481 898 Compacting 4@0 + 1@1 files
+2023/12/21-20:51:33.488 898 Generated table #25@0: 10 keys, 101208 bytes
+2023/12/21-20:51:33.488 898 Compacted 4@0 + 1@1 files => 101208 bytes
+2023/12/21-20:51:33.489 898 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/21-20:51:33.490 898 Delete type=2 #14
+2023/12/21-20:51:33.490 898 Delete type=2 #16
+2023/12/21-20:51:33.490 898 Delete type=2 #20
+2023/12/21-20:51:33.490 898 Delete type=2 #22
+2023/12/21-20:51:33.490 898 Delete type=2 #24
