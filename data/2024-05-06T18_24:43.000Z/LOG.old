@@ -1,0 +1,11 @@
+2024/05/05-21:24:22.421 2cc Reusing MANIFEST C:\users\nithanim\Temp\gw2cache-{0100007E-6516-2BD9-7D00-00011665D92B}\user\Cache\Local Storage\leveldb/MANIFEST-000001
+2024/05/05-21:24:22.423 2cc Recovering log #48
+2024/05/05-21:24:22.424 2cc Level-0 table #51: started
+2024/05/05-21:24:22.426 2cc Level-0 table #51: 42952 bytes OK
+2024/05/05-21:24:22.429 2cc Delete type=0 #48
+2024/05/05-21:25:23.689 2c0 Level-0 table #54: started
+2024/05/05-21:25:23.697 2c0 Level-0 table #54: 42853 bytes OK
+2024/05/05-21:25:23.699 2c0 Delete type=0 #52
+2024/05/05-21:25:55.663 2cc Level-0 table #56: started
+2024/05/05-21:25:55.668 2cc Level-0 table #56: 42613 bytes OK
+2024/05/05-21:25:55.672 2cc Delete type=0 #53
