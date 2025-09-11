@@ -1,0 +1,5 @@
+2025/07/02-21:51:17.281 3a4 Creating DB C:\users\nithanim\Temp\gw2cache-{0100007E-C534-2E15-7D00-000134C5152E}\user\Cache\Local Storage\leveldb since it was missing.
+2025/07/02-21:51:17.285 3a4 Reusing MANIFEST C:\users\nithanim\Temp\gw2cache-{0100007E-C534-2E15-7D00-000134C5152E}\user\Cache\Local Storage\leveldb/MANIFEST-000001
+2025/07/02-21:52:57.871 3a4 Level-0 table #5: started
+2025/07/02-21:52:57.879 3a4 Level-0 table #5: 55545 bytes OK
+2025/07/02-21:52:57.881 3a4 Delete type=0 #3
